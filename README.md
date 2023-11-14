@@ -14,3 +14,5 @@
 
 - Open another instance of the terminal to run the application 
   `ng serve`
+
+## To learn more, visit the official [Angular website](https://angular.dev/tutorials/first-app)
