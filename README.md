@@ -1,20 +1,16 @@
-# Angular Homes App
-- Install Angular if you don't have it installed
+# Offical Angular Homes App
 
-  `npm install -g @angular/cli`
-
-- Clone this branch to your local machine
-
-  `git clone -b homes-app-start git@github.com:angular/codelabs.git homes-app`
+- Clone this repository to your local machine
+  `git clone git@github.com:arifonoy05/ng-housing.git`
 
 - Once the code has been downloaded
-
-  `cd homes-app`
+  `cd ng-housing`
 
 - Install the depencies
-
   `npm install` 
 
-- Run the application 
+- Open an instance of the terminal and run the following code to start the json server used by the application
+  `json-server --watch db.json`
 
+- Open another instance of the terminal to run the application 
   `ng serve`
